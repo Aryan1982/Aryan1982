@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+👋+I+am+Aryan+Thakore;Trust+me+I+am+a+programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+👋+I+am+Aryan+Thakor;Trust+me+I+am+a+programmer)](https://git.io/typing-svg)
 
 # GitHub Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aryan1982&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
