@@ -1,7 +1,7 @@
 # Aryan Thakor
 
 **Full-stack engineer building LLM agent products.** 3 years of remote production work, now shipping my own AI products end to end.
-Vadodara, India · Open to full-time or contract, remote (UK/US overlap) · [aryanthakor.com](https://aryanthakor.com)
+Gujarat, India · Open to full-time or contract, remote (UK/US overlap) · [aryanthakor.com](https://aryanthakor.com)
 
 ## Now: [XLaunch](https://xlaunch.pro) 🎬
 
