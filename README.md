@@ -18,7 +18,8 @@ Paste a product URL and a Claude agent plans a launch film scene by scene, write
 
 ## Other things I've built
 
-- **SlashKits**: 99 agents, 69 skills and 54 slash commands for Claude Code and Codex, installed in one command
+- **[SlashKits](https://slashkits.com)**: free browser tools (timer, metronome, guitar tuner, printable calendars and more) in 12 languages with native-language URLs (Astro on Cloudflare)
+- **SlashKits CLI**: 99 agents, 69 skills and 54 slash commands for Claude Code and Codex, installed in one command
 - **[Agent Pets](https://getagentpets.com)**: Chrome extension that shows each Claude Code / OpenCode / omp session as a pet on every page, so you can approve agent permissions from any tab
 - **Kapshot**: macOS screen recorder (Electron + Swift ScreenCaptureKit, webcam picture-in-picture)
 - **[Mechclub Global](https://mechclubglobal.com)**: business website plus a custom CRM, in production
